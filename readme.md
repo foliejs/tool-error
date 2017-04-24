@@ -28,4 +28,4 @@ __Configuration for single error looks like this:__
 ```
 
 ## Issues
-Please Refer to [https://code.teambition.com/tools/error/issues](https://code.teambition.com/tools/error/issues)
+Please Refer to [https://github.com/foliejs/tool-error](https://github.com/foliejs/tool-error)
