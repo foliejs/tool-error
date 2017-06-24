@@ -7,6 +7,8 @@
 
 ```
 # Tool Error
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/foliejs/tool-error.svg)](https://greenkeeper.io/)
 Genine Error Thrower, which:
 - Throws errors according to policies.
 - Logs errors when throwing errors
